@@ -1,0 +1,1 @@
+export { technicalRequirementsAPI } from './technicalRequirements'
